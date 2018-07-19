@@ -14,3 +14,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 sandbox/build/tmp/jar/MANIFEST.MF
 .idea/workspace.xml
+.idea/misc.xml
